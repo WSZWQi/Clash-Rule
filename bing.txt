@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,office365tw.com
   - DOMAIN-SUFFIX,renovacionoffice.com
   - DOMAIN-SUFFIX,sprinklesapp.com
+  - DOMAIN-SUFFIX,sprinklesapp.com
