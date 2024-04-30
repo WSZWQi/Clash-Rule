@@ -1,24 +1,24 @@
 payload:
-  - DOMAIN-SUFFIX,bing.com,Proxy
-  - DOMAIN-SUFFIX,bing.net,Proxy
-  - DOMAIN-SUFFIX,bingads.com,Proxy
-  - DOMAIN-SUFFIX,bingagencyawards.com,Proxy
-  - DOMAIN-SUFFIX,bingapistatistics.com,Proxy
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingads.com
+  - DOMAIN-SUFFIX,bingagencyawards.com
+  - DOMAIN-SUFFIX,bingapistatistics.com
   - DOMAIN-SUFFIX,bingsandbox.com,Proxy
-  - DOMAIN-SUFFIX,bingvisualsearch.com,Proxy
-  - DOMAIN-SUFFIX,bingworld.com,Proxy
-  - DOMAIN-SUFFIX,bluehatnights.com,Proxy
-  - DOMAIN-SUFFIX,dictate.ms,Proxy
-  - DOMAIN-SUFFIX,flipwithsurface.com,Proxy
-  - DOMAIN-SUFFIX,masalladeloslimites.com,Proxy
+  - DOMAIN-SUFFIX,bingvisualsearch.com
+  - DOMAIN-SUFFIX,bingworld.com
+  - DOMAIN-SUFFIX,bluehatnights.com
+  - DOMAIN-SUFFIX,dictate.ms
+  - DOMAIN-SUFFIX,flipwithsurface.com
+  - DOMAIN-SUFFIX,masalladeloslimites.com
   - DOMAIN-SUFFIX,microsoft-give.com,Proxy
-  - DOMAIN-SUFFIX,microsoftcloudsummit.com,Proxy
-  - DOMAIN-SUFFIX,microsoftdiplomados.com,Proxy
-  - DOMAIN-SUFFIX,microsoftlatamholiday.com,Proxy
-  - DOMAIN-SUFFIX,microsoftmxfilantropia.com,Proxy
-  - DOMAIN-SUFFIX,microsoftpartnersolutions.com,Proxy
-  - DOMAIN-SUFFIX,msunlimitedcloudsummit.com,Proxy
-  - DOMAIN-SUFFIX,office365love.com,Proxy
-  - DOMAIN-SUFFIX,office365tw.com,Proxy
-  - DOMAIN-SUFFIX,renovacionoffice.com,Proxy
-  - DOMAIN-SUFFIX,sprinklesapp.com,Proxy
+  - DOMAIN-SUFFIX,microsoftcloudsummit.com
+  - DOMAIN-SUFFIX,microsoftdiplomados.com
+  - DOMAIN-SUFFIX,microsoftlatamholiday.com
+  - DOMAIN-SUFFIX,microsoftmxfilantropia.com
+  - DOMAIN-SUFFIX,microsoftpartnersolutions.com
+  - DOMAIN-SUFFIX,msunlimitedcloudsummit.com
+  - DOMAIN-SUFFIX,office365love.com
+  - DOMAIN-SUFFIX,office365tw.com
+  - DOMAIN-SUFFIX,renovacionoffice.com
+  - DOMAIN-SUFFIX,sprinklesapp.com
